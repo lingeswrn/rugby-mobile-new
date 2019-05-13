@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/lingu/Downloads/Rugby Vault Source Code/rugbyvault-mobile-development/android/app/build/intermediates/res/merged/debug/xml/stub_classic.xml",
+        "source": "/Users/lingu/Downloads/Rugby Vault Source Code/rugbyvault-mobile-development/android/app/build/intermediates/exploded-aar/Rugbyvault/tipsi-stripe/unspecified/res/xml/stub_classic.xml"
+    },
+    {
+        "merged": "/Users/lingu/Downloads/Rugby Vault Source Code/rugbyvault-mobile-development/android/app/build/intermediates/res/merged/debug/xml/stub_material.xml",
+        "source": "/Users/lingu/Downloads/Rugby Vault Source Code/rugbyvault-mobile-development/android/app/build/intermediates/exploded-aar/Rugbyvault/tipsi-stripe/unspecified/res/xml/stub_material.xml"
+    },
+    {
+        "merged": "/Users/lingu/Downloads/Rugby Vault Source Code/rugbyvault-mobile-development/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/Users/lingu/Downloads/Rugby Vault Source Code/rugbyvault-mobile-development/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.57.1/res/xml/preferences.xml"
+    }
+]

@@ -1,0 +1,4 @@
+{
+  "name": "lib",
+  "explanation": "this is here so lib can be required as an absolute path."
+}

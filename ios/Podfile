@@ -1,0 +1,66 @@
+# Uncomment the next line to define a global platform for your project
+platform :ios, '9.0'
+workspace 'Rugbyvault'
+
+target 'Rugbyvault' do
+  # Uncomment the next line if you're using Swift or would like to use dynamic frameworks
+  # use_frameworks!
+  # pod 'React', :path => '../node_modules/react-native', :subspecs => [
+  #   'Core',
+  #   'CxxBridge', # Include this for RN >= 0.47
+  #   'DevSupport', # Include this to enable In-App Devmenu if RN >= 0.43
+  #   'PrivateDatabase',
+  #   'RCTGeolocation',
+  #   'RCTLinkingIOS',
+  #   'RCTPushNotification',
+  #   'RCTTest',
+  #   'cxxreact',
+  #   'fishhook',
+  #   'jschelpers',
+  #   'jsinspector'
+  # ]
+  # # Explicitly include Yoga if you are using RN >= 0.42.0
+  # pod 'yoga', :path => '../node_modules/react-native/ReactCommon/yoga'
+  #
+  # # Third party deps podspec link
+  # pod 'DoubleConversion', :podspec => '../node_modules/react-native/third-party-podspecs/DoubleConversion.podspec'
+  # pod 'glog', :podspec => '../node_modules/react-native/third-party-podspecs/glog.podspec'
+  # pod 'Folly', :podspec => '../node_modules/react-native/third-party-podspecs/Folly.podspec'
+
+  # Pods for Rugbyvault
+  pod 'Stripe', '~> 10.1.0'
+
+  pod 'Firebase/Core', '~> 4.13.0'
+  pod 'Firebase/Auth'
+  pod 'Firebase/Messaging'
+
+
+
+
+
+
+
+
+
+  pod 'CodePush', :path => '../node_modules/react-native-code-push'
+
+  pod 'react-native-keep-awake', :path => '../node_modules/react-native-keep-awake'
+
+  pod 'BVLinearGradient', :path => '../node_modules/react-native-linear-gradient'
+
+  pod 'react-native-splash-screen', :path => '../node_modules/react-native-splash-screen'
+
+end
+
+# target 'Rugbyvault-tvOS' do
+#   # Uncomment the next line if you're using Swift or would like to use dynamic frameworks
+#   # use_frameworks!
+#
+#   # Pods for Rugbyvault-tvOS
+#
+#   target 'Rugbyvault-tvOSTests' do
+#     inherit! :search_paths
+#     # Pods for testing
+#   end
+#
+# end

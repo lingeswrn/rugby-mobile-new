@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/lingu/Downloads/Rugby Vault Source Code/rugbyvault-mobile-development/android/app/build/intermediates/res/merged/debug/layout-w600dp-v13/ib_core_lyt_dialog_fragment.xml",
+        "source": "/Users/lingu/Downloads/Rugby Vault Source Code/rugbyvault-mobile-development/android/app/build/intermediates/exploded-aar/com.instabug.library/instabug-core/8.0.4/res/layout-w600dp-v13/ib_core_lyt_dialog_fragment.xml"
+    },
+    {
+        "merged": "/Users/lingu/Downloads/Rugby Vault Source Code/rugbyvault-mobile-development/android/app/build/intermediates/res/merged/debug/layout-w600dp-v13/instabug_lyt_pbi.xml",
+        "source": "/Users/lingu/Downloads/Rugby Vault Source Code/rugbyvault-mobile-development/android/app/build/intermediates/exploded-aar/com.instabug.library/instabug-core/8.0.4/res/layout-w600dp-v13/instabug_lyt_pbi.xml"
+    }
+]

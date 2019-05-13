@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Rugbyvault.iml" filepath="$PROJECT_DIR$/Rugbyvault.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/instabug-reactnative/android/instabug-reactnative.iml" filepath="$PROJECT_DIR$/../node_modules/instabug-reactnative/android/instabug-reactnative.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-code-push/android/app/react-native-code-push.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-code-push/android/app/react-native-code-push.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-firebase/android/react-native-firebase.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-firebase/android/react-native-firebase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-linear-gradient/android/react-native-linear-gradient.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-linear-gradient/android/react-native-linear-gradient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-picker/android/react-native-picker.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-picker/android/react-native-picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-sound/android/react-native-sound.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-sound/android/react-native-sound.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-splash-screen/android/react-native-splash-screen.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-splash-screen/android/react-native-splash-screen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-svg/android/react-native-svg.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-svg/android/react-native-svg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/tipsi-stripe/android/tipsi-stripe.iml" filepath="$PROJECT_DIR$/../node_modules/tipsi-stripe/android/tipsi-stripe.iml" />
+    </modules>
+  </component>
+</project>

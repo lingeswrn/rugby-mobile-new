@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/lingu/Downloads/Rugby Vault Source Code/rugbyvault-mobile-development/android/app/build/intermediates/res/merged/debug/raw/new_message.mp3",
+        "source": "/Users/lingu/Downloads/Rugby Vault Source Code/rugbyvault-mobile-development/android/app/build/intermediates/exploded-aar/com.instabug.library/instabug-core/8.0.4/res/raw/new_message.mp3"
+    },
+    {
+        "merged": "/Users/lingu/Downloads/Rugby Vault Source Code/rugbyvault-mobile-development/android/app/build/intermediates/res/merged/debug/raw/shuttle_sound.mp3",
+        "source": "/Users/lingu/Downloads/Rugby Vault Source Code/rugbyvault-mobile-development/android/app/src/main/res/raw/shuttle_sound.mp3"
+    },
+    {
+        "merged": "/Users/lingu/Downloads/Rugby Vault Source Code/rugbyvault-mobile-development/android/app/build/intermediates/res/merged/debug/raw/level_sound.mp3",
+        "source": "/Users/lingu/Downloads/Rugby Vault Source Code/rugbyvault-mobile-development/android/app/src/main/res/raw/level_sound.mp3"
+    }
+]

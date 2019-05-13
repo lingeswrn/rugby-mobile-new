@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/lingu/Downloads/Rugby Vault Source Code/rugbyvault-mobile-development/android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_survey_thankyou.xml",
+        "source": "/Users/lingu/Downloads/Rugby Vault Source Code/rugbyvault-mobile-development/android/app/build/intermediates/exploded-aar/com.instabug.library/instabug-survey/8.0.4/res/drawable-anydpi-v21/ic_survey_thankyou.xml"
+    },
+    {
+        "merged": "/Users/lingu/Downloads/Rugby Vault Source Code/rugbyvault-mobile-development/android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "source": "/Users/lingu/Downloads/Rugby Vault Source Code/rugbyvault-mobile-development/android/app/build/intermediates/exploded-aar/com.android.support/design/26.0.2/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "/Users/lingu/Downloads/Rugby Vault Source Code/rugbyvault-mobile-development/android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility.xml",
+        "source": "/Users/lingu/Downloads/Rugby Vault Source Code/rugbyvault-mobile-development/android/app/build/intermediates/exploded-aar/com.android.support/design/26.0.2/res/drawable-anydpi-v21/design_ic_visibility.xml"
+    }
+]

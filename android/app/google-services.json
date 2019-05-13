@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "635494646992",
+    "firebase_url": "https://rugbyvault-599b1.firebaseio.com",
+    "project_id": "rugbyvault-599b1",
+    "storage_bucket": "rugbyvault-599b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635494646992:android:5186e041dc87957a",
+        "android_client_info": {
+          "package_name": "com.rugbyvault"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635494646992-rma7kdh8elmti2jadl7o3252igjcd9lf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rugbyvault",
+            "certificate_hash": "88465ee646265191c05a4ebffd90cf8a00daa162"
+          }
+        },
+        {
+          "client_id": "635494646992-oql6okoi9v4qd0bk39evcvpf9mve2fi2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBabeh1ustnovNwAJiCB6RETlAbvvyk__Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "635494646992-iac9qhj2j789komi8dohqd7ooaq4lps6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.abstractmediaco.rugbyvault"
+              }
+            },
+            {
+              "client_id": "635494646992-oql6okoi9v4qd0bk39evcvpf9mve2fi2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

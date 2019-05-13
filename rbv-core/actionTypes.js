@@ -1,0 +1,3 @@
+export default {
+  ENQUEUE_OFFLINE_EVENT: 'ENQUEUE_OFFLINE_EVENT'
+};

@@ -1,0 +1,5 @@
+<resources>
+    <string moduleConfig="true" name="reactNativeCodePush_androidDeploymentKey">FXnrn1aUlqRdn0zSDc5cbQ2wwEa0VJ26h8tkm</string>
+
+    <string name="app_name">Rugbyvault</string>
+</resources>

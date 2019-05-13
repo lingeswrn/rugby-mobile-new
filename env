@@ -1,0 +1,19 @@
+# App
+FORGE_AUTH_ON_LOAD=false
+FORGE_AUTH_USERNAME=dev@abstractmediaco.com
+FORGE_AUTH_PASSWORD=abstractdev
+API_PROTOCOL=http
+API_HOST=192.168.99.100
+API_PORT=5000
+
+# Firebase Credentials
+FIREBASE_API_KEY=AIzaSyCLha8OzzjbAV3LNkdDic_csvTm3_if8mg
+FIREBASE_MESSAGING_SENDER_ID=635494646992
+INSTABUG_TOKEN=ce5b9ab44c087732819fb256e528970e
+
+STRIPE_TOKEN=pk_test_mPGHQK6mlN2CRxCTHeT1fAEm
+
+####### code-push deployment keys ############
+# Production: 'X6qB_4PeVxSzqatgScM-4rbs0ZtzVJ26h8tkm'
+# Staging: 'FXnrn1aUlqRdn0zSDc5cbQ2wwEa0VJ26h8tkm'
+###############################################

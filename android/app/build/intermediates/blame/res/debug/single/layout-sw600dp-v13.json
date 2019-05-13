@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/lingu/Downloads/Rugby Vault Source Code/rugbyvault-mobile-development/android/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/ib_fr_new_feature_fragment.xml",
+        "source": "/Users/lingu/Downloads/Rugby Vault Source Code/rugbyvault-mobile-development/android/app/build/intermediates/exploded-aar/com.instabug.library/instabug-features-request/8.0.4/res/layout-sw600dp-v13/ib_fr_new_feature_fragment.xml"
+    },
+    {
+        "merged": "/Users/lingu/Downloads/Rugby Vault Source Code/rugbyvault-mobile-development/android/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/instabug_lyt_notification.xml",
+        "source": "/Users/lingu/Downloads/Rugby Vault Source Code/rugbyvault-mobile-development/android/app/build/intermediates/exploded-aar/com.instabug.library/instabug-chat/8.0.4/res/layout-sw600dp-v13/instabug_lyt_notification.xml"
+    },
+    {
+        "merged": "/Users/lingu/Downloads/Rugby Vault Source Code/rugbyvault-mobile-development/android/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/instabug_survey_fragment_welcome_dialog.xml",
+        "source": "/Users/lingu/Downloads/Rugby Vault Source Code/rugbyvault-mobile-development/android/app/build/intermediates/exploded-aar/com.instabug.library/instabug-survey/8.0.4/res/layout-sw600dp-v13/instabug_survey_fragment_welcome_dialog.xml"
+    },
+    {
+        "merged": "/Users/lingu/Downloads/Rugby Vault Source Code/rugbyvault-mobile-development/android/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/instabug_dialog_nps_survey.xml",
+        "source": "/Users/lingu/Downloads/Rugby Vault Source Code/rugbyvault-mobile-development/android/app/build/intermediates/exploded-aar/com.instabug.library/instabug-survey/8.0.4/res/layout-sw600dp-v13/instabug_dialog_nps_survey.xml"
+    },
+    {
+        "merged": "/Users/lingu/Downloads/Rugby Vault Source Code/rugbyvault-mobile-development/android/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "/Users/lingu/Downloads/Rugby Vault Source Code/rugbyvault-mobile-development/android/app/build/intermediates/exploded-aar/com.android.support/design/26.0.2/res/layout-sw600dp-v13/design_layout_snackbar.xml"
+    }
+]
